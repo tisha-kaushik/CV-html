@@ -1,0 +1,44 @@
+.un{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+.ind{
+    float: right;
+  }
+  li a {
+    display: block;
+    padding: 30px;
+    background-color:olive;
+  }
+
+.name{
+    color:black;
+    float:left;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+}
+.head1{
+   
+    color:olive;
+    font-weight:bold;
+}
+.head2{
+    color:olive;
+    font-weight:bold;
+}
+.head3{
+    color:olive;
+    font-weight:bold;
+}
+.head4{
+    color:olive;
+    font-weight:bold;
+}
+.head5{
+ 
+    color:olive;
+    font-weight:bold;
+}
